@@ -1,1 +1,4 @@
 welcome to git basic commands
+git init
+git add filename
+git commit -m "commets"
